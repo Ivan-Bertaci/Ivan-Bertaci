@@ -3,7 +3,7 @@
 <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <!--
-**Ivan-Bertaci/Ivan-Bertaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Em aperfeiçoamento
+**Ivan-Bertaci/Ivan-Bertaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
